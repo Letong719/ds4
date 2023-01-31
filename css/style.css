@@ -1,0 +1,70 @@
+body{
+    padding: 20px;
+    background-color: #000000e8;
+    font-family: "Kannada MN", Helvetica, sans-serif;
+    font-size: 20px;
+    color:#d4f7e5;
+}
+
+p{
+    line-height: 25px;
+    letter-spacing: 0.3px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+h1{
+    color: #d4f7e5;
+    font-family: "Forma DJR Banner", "kannanda MN", sans-serif;
+    font-weight: Bold;
+    font-size: 36px;
+    letter-spacing: 3px;
+}
+h2{
+    color: #84b59d;
+    font-family: "Forma DJR Banner", "kannanda MN", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+a{
+    color: #5fd6c2;
+    font-weight: regular;
+}
+
+img{
+    width: 45%;
+    /* padding: 5px; */
+    margin: 5px 10px 15px 20px;
+    border: solid rgb(252, 255, 255) 4px;
+    border-radius: 4%;
+}
+
+li{
+    text-align: center;
+    margin: auto;
+    color: #579BB1;
+    font-weight: bold;
+    display: inline-block;
+    /* border: 10px solid; */
+    text-transform: uppercase;
+}
+
+nav{
+    background-color: #c7e0fd;
+}
+
+.navlink{
+    color: rgb(27, 91, 134);
+    font-weight: double;
+    font-size: 14px;
+}
+
+
+footer a{
+    font-size: 14px;
+    color:#b8b8b8;
+}
+
